@@ -1,0 +1,3 @@
+(* FizzBuzz Solution for Mathematika
+  - submitted by slasher@grhack.net *)
+Table[If[Divisible[i,15],Text["FizzBuzz"],If[Divisible[i,5],Text["Buzz"],If[Divisible[i,3],Text["Fizz"],i]]],{i,100}]//MatrixForm
