@@ -1,5 +1,5 @@
-# FizzBuzz Solution for JavaScript
-#  - submitted by @geoah
+// FizzBuzz Solution for JavaScript
+//  - submitted by @geoah
 
 for(var i=1; i<=100; i++){
 	var r = '';
